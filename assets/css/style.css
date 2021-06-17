@@ -214,7 +214,7 @@ table td { border: 1px solid #e8e8e8; }
 
 @media screen and (max-width: 600px) { .site-title { padding-right: 45px; } }
 
-.site-title, .site-title:visited { color: #031926; }
+.site-title, .site-title:visited { color: #eeeeee; }
 
 .site-nav { position: absolute; top: 9px; right: 15px; background-color: #3D3B8E; border: 1px solid #e8e8e8; border-radius: 5px; text-align: right; }
 
